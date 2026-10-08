@@ -1,2 +1,3 @@
-# final_labrie-annejulie
+# Projet final interactivité ludique, automne 2026
 
+## Crédits
