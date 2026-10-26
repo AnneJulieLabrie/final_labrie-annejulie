@@ -26,5 +26,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/Victoire.unity
     guid: 4f09877a2ca16f5448b3abb6a9aca5f7
+  - enabled: 1
+    path: Assets/_/Scenes/Credits.unity
+    guid: d7e244a200f902e4bab3322314f67f64
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
