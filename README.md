@@ -6,3 +6,6 @@
 
 https://pixabay.com/fr/sound-effects/films-et-effets-sp%C3%A9ciaux-bottle-glass-hit-4-580256/
 > Bottle pick-up
+
+https://pixabay.com/fr/sound-effects/films-et-effets-sp%C3%A9ciaux-bottle-break-39916/
+> Bottle break
