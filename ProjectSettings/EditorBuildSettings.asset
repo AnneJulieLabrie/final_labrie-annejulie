@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/_/Scenes/Accueil.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/_/Scenes/Game_over.unity
-    guid: 0e18206c401524e4fa4d7f4150bfafc4
+    path: Assets/_/Scenes/Navigation.unity
+    guid: 983c13d6cf0957e4685f58130c9d77be
   - enabled: 1
     path: Assets/_/Scenes/Niveau_1.unity
     guid: b656d4889f13c7b48aea80d2065c9f67
@@ -20,5 +20,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/Niveau_3.unity
     guid: d2b9461c45e1b2843a105931895cefcf
+  - enabled: 1
+    path: Assets/_/Scenes/Game_over.unity
+    guid: 0e18206c401524e4fa4d7f4150bfafc4
+  - enabled: 1
+    path: Assets/_/Scenes/Victoire.unity
+    guid: 4f09877a2ca16f5448b3abb6a9aca5f7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
