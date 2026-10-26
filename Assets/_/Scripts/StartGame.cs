@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Start : MonoBehaviour
+public class StartGame : MonoBehaviour
 {
     public string nomDeLaScene = "Niveau_1"; // Nom exact ☝️
 
