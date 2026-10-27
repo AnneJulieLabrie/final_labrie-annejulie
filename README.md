@@ -9,6 +9,7 @@
 - [Roue qui grince](https://pixabay.com/fr/sound-effects/films-et-effets-sp%C3%A9ciaux-crank-77232/)
 - [Bois qui craque](https://pixabay.com/sound-effects/film-special-effects-wood-crack-1-105890/)
 - [Ambiance niveau 1](https://pixabay.com/fr/music/ambiant-dark-dystopia-594821/)
+- [Object magique](https://pixabay.com/sound-effects/film-special-effects-shimmering-object-79354/)
 
 ### Fonts
 - [Megrim](https://fonts.google.com/specimen/Megrim?preview.text=Prodos%C3%ADa&specimen.preview.text=Prodos%C3%ADa&categoryFilters=Feeling:%2FExpressive%2FFuturistic&preview.script=Latn)
