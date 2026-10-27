@@ -48234,7 +48234,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.GameObjectAction
   targetMode: 1
-  target: {fileID: 2026546504}
+  target: {fileID: 1795852316}
   operation: 1
 --- !u!114 &684602298
 MonoBehaviour:
@@ -48249,7 +48249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.GameObjectAction
   targetMode: 1
-  target: {fileID: 2026546504}
+  target: {fileID: 1795852316}
   operation: 0
 --- !u!1001 &689283423
 PrefabInstance:
