@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class StartGame : MonoBehaviour
 {
-    public string nomDeLaScene = "Niveau_1"; // Nom exact ☝️
+    public string nomDeLaScene = "Niveau_1";
 
     public void ChangeLaScene()
     {
