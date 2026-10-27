@@ -1390,7 +1390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1c02e3e84d634a439ba942ebb26572f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ClickToggleStatus
-  isActive: 1
+  Panel: {fileID: 0}
 --- !u!1 &1305010115
 GameObject:
   m_ObjectHideFlags: 0
