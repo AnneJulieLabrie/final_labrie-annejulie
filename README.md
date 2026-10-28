@@ -18,6 +18,6 @@
 - [Morris Roman](https://www.dafont.com/morris-roman.font?back=theme)
 
 ### Scripts
-- [Son boutons](https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html)
-- [On and off](https://teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html)
+- [Son boutons](https://www.youtube.com/watch?v=ObGpSqi-3k8)
+- [On and off](https://www.youtube.com/watch?v=B0ZDMMpx8qA&t=32s)
 
