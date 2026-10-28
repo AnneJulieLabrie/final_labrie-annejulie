@@ -1650,6 +1650,7 @@ GameObject:
   - component: {fileID: 117335816}
   - component: {fileID: 117335815}
   - component: {fileID: 117335814}
+  - component: {fileID: 117335818}
   m_Layer: 5
   m_Name: HUD
   m_TagString: Untagged
@@ -1743,6 +1744,14 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!222 &117335818
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117335813}
+  m_CullTransparentMesh: 1
 --- !u!1001 &136851337
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13094,7 +13103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.60784316}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
