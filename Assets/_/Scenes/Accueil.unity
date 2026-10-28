@@ -2145,7 +2145,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Apputer sur E pour int\xE9ragir avec votre environnement et appuyer sur
-    F pour utiliser un objet de votre inventaire"
+    F pour utiliser un objet de votre inventaire."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 24f8a85e50c0b53489ddc69ec78400f6, type: 2}
   m_sharedMaterial: {fileID: -3612184070531587347, guid: 24f8a85e50c0b53489ddc69ec78400f6, type: 2}
