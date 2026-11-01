@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f3ad3d94c76a74ffaae15625647ada6a, type: 3}
-  m_Name: button-4
+  m_Name: wheel-4_interact
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.BoolVariable
-  m_Id: 43055c7238bb485e831438c7c771b6be
+  m_Id: 0e7c8349ddda4a9abbc424bdb9485083
   Persistent: 0
   m_InitialValue: 0

@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f3ad3d94c76a74ffaae15625647ada6a, type: 3}
-  m_Name: barsOpened
+  m_Name: wheel-1_interact
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.BoolVariable
-  m_Id: 87146e164aac4445bf126cb8d139abea
+  m_Id: 0e7c8349ddda4a9abbc424bdb9485083
   Persistent: 0
   m_InitialValue: 0
