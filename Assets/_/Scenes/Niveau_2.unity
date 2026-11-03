@@ -46491,6 +46491,7 @@ GameObject:
   - component: {fileID: 843181959}
   - component: {fileID: 843181958}
   - component: {fileID: 843181957}
+  - component: {fileID: 843181961}
   m_Layer: 0
   m_Name: Condition_wheel-4
   m_TagString: Untagged
@@ -46556,7 +46557,7 @@ MonoBehaviour:
   space: 1
   cancelPhysicsWhileMoving: 1
   animate: 1
-  duration: 0.3
+  duration: 1
   ease: 0
   customCurve:
     serializedVersion: 2
@@ -46619,6 +46620,7 @@ MonoBehaviour:
   - {fileID: 843181957}
   actions:
   - {fileID: 843181958}
+  - {fileID: 843181961}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -46627,6 +46629,20 @@ MonoBehaviour:
   hintTargetMode: 1
   hintRenderer: {fileID: 0}
   hintMaterial: {fileID: 0}
+--- !u!114 &843181961
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843181955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f247ad078a38435b9e19cb43acc693d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
+  target: {fileID: 1937384224}
+  operation: 0
 --- !u!1 &866261538
 GameObject:
   m_ObjectHideFlags: 0
@@ -136477,6 +136493,7 @@ GameObject:
   - component: {fileID: 1601450995}
   - component: {fileID: 1601450994}
   - component: {fileID: 1601450993}
+  - component: {fileID: 1601450997}
   m_Layer: 0
   m_Name: Condition_wheel-1
   m_TagString: Untagged
@@ -136542,7 +136559,7 @@ MonoBehaviour:
   space: 1
   cancelPhysicsWhileMoving: 1
   animate: 1
-  duration: 0.3
+  duration: 1
   ease: 0
   customCurve:
     serializedVersion: 2
@@ -136605,6 +136622,7 @@ MonoBehaviour:
   - {fileID: 1601450993}
   actions:
   - {fileID: 1601450994}
+  - {fileID: 1601450997}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -136613,6 +136631,20 @@ MonoBehaviour:
   hintTargetMode: 1
   hintRenderer: {fileID: 0}
   hintMaterial: {fileID: 0}
+--- !u!114 &1601450997
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601450991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f247ad078a38435b9e19cb43acc693d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
+  target: {fileID: 1937384224}
+  operation: 0
 --- !u!1 &1607944204
 GameObject:
   m_ObjectHideFlags: 0
@@ -141828,6 +141860,7 @@ GameObject:
   - component: {fileID: 1715596884}
   - component: {fileID: 1715596887}
   - component: {fileID: 1715596888}
+  - component: {fileID: 1715596889}
   m_Layer: 0
   m_Name: Condition_wheel-3
   m_TagString: Untagged
@@ -141872,6 +141905,7 @@ MonoBehaviour:
   - {fileID: 1715596888}
   actions:
   - {fileID: 1715596887}
+  - {fileID: 1715596889}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -141921,7 +141955,7 @@ MonoBehaviour:
   space: 1
   cancelPhysicsWhileMoving: 1
   animate: 1
-  duration: 0.3
+  duration: 1
   ease: 0
   customCurve:
     serializedVersion: 2
@@ -141964,6 +141998,20 @@ MonoBehaviour:
   key: 19
   actionReference: {fileID: 0}
   triggerOn: 0
+--- !u!114 &1715596889
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1715596883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f247ad078a38435b9e19cb43acc693d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
+  target: {fileID: 1937384224}
+  operation: 0
 --- !u!1 &1716584502
 GameObject:
   m_ObjectHideFlags: 0
@@ -162175,12 +162223,142 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1937384223}
   - {fileID: 1028496126}
   - {fileID: 1632643924}
   - {fileID: 1570028678}
   - {fileID: 1319523516}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1937384222
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1937384223}
+  - component: {fileID: 1937384224}
+  m_Layer: 0
+  m_Name: Creaks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1937384223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937384222}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -30.082401, y: -2.01826, z: -8.35334}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1934040906}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1937384224
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937384222}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: -6626401137150151693, guid: b76f09c8d0d30fc409f2e943a00f5bed, type: 2}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 6418180475301049370, guid: 1e0b0965782e8c34abada306bf76871a, type: 2}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1940593506
 GameObject:
   m_ObjectHideFlags: 0
@@ -163425,6 +163603,7 @@ GameObject:
   - component: {fileID: 1980650340}
   - component: {fileID: 1980650339}
   - component: {fileID: 1980650338}
+  - component: {fileID: 1980650342}
   m_Layer: 0
   m_Name: Condition_wheel-2
   m_TagString: Untagged
@@ -163490,7 +163669,7 @@ MonoBehaviour:
   space: 1
   cancelPhysicsWhileMoving: 1
   animate: 1
-  duration: 0.3
+  duration: 1
   ease: 0
   customCurve:
     serializedVersion: 2
@@ -163553,6 +163732,7 @@ MonoBehaviour:
   - {fileID: 1980650338}
   actions:
   - {fileID: 1980650339}
+  - {fileID: 1980650342}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -163561,6 +163741,20 @@ MonoBehaviour:
   hintTargetMode: 1
   hintRenderer: {fileID: 0}
   hintMaterial: {fileID: 0}
+--- !u!114 &1980650342
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980650336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f247ad078a38435b9e19cb43acc693d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
+  target: {fileID: 1937384224}
+  operation: 0
 --- !u!1001 &1984912817
 PrefabInstance:
   m_ObjectHideFlags: 0
