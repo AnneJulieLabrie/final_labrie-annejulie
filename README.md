@@ -20,3 +20,6 @@
 - [Son boutons](https://www.youtube.com/watch?v=ObGpSqi-3k8)
 - [On and off](https://www.youtube.com/watch?v=B0ZDMMpx8qA&t=32s)
 
+### Images 
+- [Inventaire](https://www.flaticon.com/free-icon/inventory_831556)
+- [Main](https://www.flaticon.com/free-icons/hand)
