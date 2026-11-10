@@ -22,4 +22,4 @@
 
 ### Images 
 - [Inventaire](https://www.flaticon.com/free-icon/inventory_831556)
-- [Main](https://www.flaticon.com/free-icon/hand_3422662?term=hand&related_id=3422662)
+- [Main](https://www.flaticon.com/free-icon/hand_3422659?related_id=3422662&origin=search)
