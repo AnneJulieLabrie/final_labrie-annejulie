@@ -1488,7 +1488,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "PRODOS\xCDA\n"
+  m_text: "Ni\xE1ou\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ccde113cd2469a344b9972248d7ef4e5, type: 2}
   m_sharedMaterial: {fileID: -368032414553001370, guid: ccde113cd2469a344b9972248d7ef4e5, type: 2}
