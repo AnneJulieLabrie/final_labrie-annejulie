@@ -9,9 +9,11 @@ public class ButtonSound : MonoBehaviour
 
     void Start()
     {
-        // Get the Button component and add a listener to the onClick event
-        Button button = GetComponent<Button>();
-        button.onClick.AddListener(PlaySound);
+        Button[] buttons = FindObjectsByType<Button>(FindObjectsInactive.Include);
+        foreach (Button button in buttons)
+        {
+            button.onClick.AddListener(PlaySound);
+        }
     }
 
     public void PlaySound()
