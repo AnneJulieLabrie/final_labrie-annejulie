@@ -16,9 +16,6 @@
 - [Megrim](https://fonts.google.com/specimen/Megrim?preview.text=Prodos%C3%ADa&specimen.preview.text=Prodos%C3%ADa&categoryFilters=Feeling:%2FExpressive%2FFuturistic&preview.script=Latn)
 - [Morris Roman](https://www.dafont.com/morris-roman.font?back=theme)
 
-### Scripts
-- [On and off](https://www.youtube.com/watch?v=B0ZDMMpx8qA&t=32s)
-
 ### Images 
 - [Inventaire](https://www.flaticon.com/free-icon/inventory_831556)
 - [Main](https://www.flaticon.com/free-icon/hand_3422659?related_id=3422662&origin=search)
