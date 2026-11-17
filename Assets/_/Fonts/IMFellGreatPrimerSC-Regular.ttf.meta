@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 52023e1be80705641a328aabd825839c
+guid: 09c516172ae9fe340ae78f9a4dd9d7d8
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - IM FELL Double Pica
+  - IM FELL Great Primer SC
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

@@ -178,8 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Retour
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
-  m_sharedMaterial: {fileID: 4629447766376274131, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
+  m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -495,8 +495,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Chapitres
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
-  m_sharedMaterial: {fileID: 4629447766376274131, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
+  m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -677,7 +677,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Cr\xE9dits"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_sharedMaterial: {fileID: -3612184070531587347, guid: 24f8a85e50c0b53489ddc69ec78400f6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1368,8 +1368,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Cr\xE9dits"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
-  m_sharedMaterial: {fileID: 4629447766376274131, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
+  m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2064,8 +2064,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Chapitre 2 - Les \xC9go\xFBts"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
-  m_sharedMaterial: {fileID: 4629447766376274131, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
+  m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2547,8 +2547,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Chapitre 1 - La Cit\xE9"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
-  m_sharedMaterial: {fileID: 4629447766376274131, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
+  m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3266,8 +3266,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "D\xE9buter"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
-  m_sharedMaterial: {fileID: 4629447766376274131, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
+  m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3990,7 +3990,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "D\xE9buter"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_sharedMaterial: {fileID: -3612184070531587347, guid: 24f8a85e50c0b53489ddc69ec78400f6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4256,8 +4256,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Chapitre 3 - Le Dongeon
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
-  m_sharedMaterial: {fileID: 4629447766376274131, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
+  m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4393,7 +4393,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Chapitres
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4cde027c476f85b45a3bea74888b95ff, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_sharedMaterial: {fileID: -3612184070531587347, guid: 24f8a85e50c0b53489ddc69ec78400f6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
