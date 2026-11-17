@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c3e321bc533bdac44ad857b1d86b2149
+guid: 52023e1be80705641a328aabd825839c
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Morris Roman
+  - IM FELL Double Pica
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
