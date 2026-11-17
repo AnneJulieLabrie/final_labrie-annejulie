@@ -26127,7 +26127,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 771560213867693501, guid: a881b7f9dfcb7ec42ae2d3a5b7c811b5, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1165863990279724050, guid: a881b7f9dfcb7ec42ae2d3a5b7c811b5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -26176,6 +26176,10 @@ PrefabInstance:
     - target: {fileID: 3884270916551050478, guid: a881b7f9dfcb7ec42ae2d3a5b7c811b5, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5619250269831607420, guid: a881b7f9dfcb7ec42ae2d3a5b7c811b5, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5983146388574777588, guid: a881b7f9dfcb7ec42ae2d3a5b7c811b5, type: 3}
       propertyPath: FootstepAudioVolume
