@@ -14,7 +14,7 @@
 
 ### Fonts
 - [Megrim](https://fonts.google.com/specimen/Megrim?preview.text=Prodos%C3%ADa&specimen.preview.text=Prodos%C3%ADa&categoryFilters=Feeling:%2FExpressive%2FFuturistic&preview.script=Latn)
-- [Morris Roman](https://www.dafont.com/morris-roman.font?back=theme)
+- [IM Fell Great Primer SC](https://fonts.google.com/specimen/IM+Fell+Great+Primer+SC?categoryFilters=Feeling:%2FExpressive%2FVintage&preview.script=Latn)
 
 ### Images 
 - [Inventaire](https://www.flaticon.com/free-icon/inventory_831556)
