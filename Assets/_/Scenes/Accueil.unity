@@ -4537,7 +4537,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Chapitre 3 - Le Dongeon
+  m_text: Chapitre 3 - Le Donjon
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
   m_sharedMaterial: {fileID: -2433997866833720064, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
