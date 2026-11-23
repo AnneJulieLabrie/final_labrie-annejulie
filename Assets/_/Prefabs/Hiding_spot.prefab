@@ -43,7 +43,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 137676, guid: decd5016c0f9a6744aecb456c0c2913e, type: 3}
       propertyPath: m_Name
-      value: SM_Prop_Trapdoor_01
+      value: door
       objectReference: {fileID: 0}
     - target: {fileID: 423022, guid: decd5016c0f9a6744aecb456c0c2913e, type: 3}
       propertyPath: m_LocalScale.z
@@ -109,7 +109,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 149544, guid: ab129feaa0ed57d48bb75ae596344439, type: 3}
       propertyPath: m_Name
-      value: SM_Bld_ArrowSlit_01
+      value: box
       objectReference: {fileID: 0}
     - target: {fileID: 463250, guid: ab129feaa0ed57d48bb75ae596344439, type: 3}
       propertyPath: m_LocalScale.x
