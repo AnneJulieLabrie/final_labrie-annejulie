@@ -19691,7 +19691,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Lorsqu'utiliser aux bons\nendroits, il permet de \ntraverser des espaces
+  m_text: "Lorsqu'utilis\xE9 aux bons\nendroits, il permet de \ntraverser des espaces
     \ntrops \xE9troits. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5a2b4b0c9129ad74bad409c50f62cb72, type: 2}
