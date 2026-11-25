@@ -19,3 +19,5 @@
 
 ### Images 
 - [Inventaire](https://www.flaticon.com/free-icon/inventory_831556)
+- [Œil fermé](https://www.flaticon.com/free-icon/eyebrow_9726597?term=eye&page=1&position=29&origin=search&related_id=9726597)
+- [Œil ouvert](https://www.flaticon.com/free-icon/view_2874802?term=eye&page=1&position=34&origin=search&related_id=2874802)
