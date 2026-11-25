@@ -8,18 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/Accueil.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
-    path: Assets/_/Scenes/Chapters.unity
-    guid: 7fe4eddfff5250e48a010b21a329b422
+  - enabled: 1
+    path: Assets/_/Scenes/Intro.unity
+    guid: 6e849afffbec6a64ea1e0214ed0b8a5a
   - enabled: 1
     path: Assets/_/Scenes/Niveau_1.unity
     guid: b656d4889f13c7b48aea80d2065c9f67
   - enabled: 1
     path: Assets/_/Scenes/Niveau_2.unity
     guid: 4202f498ca864aa458beb59c8c71ecf1
-  - enabled: 0
-    path: Assets/_/Scenes/Niveau_2_zone-2.unity
-    guid: 5794627b218917847909239b3bb710df
   - enabled: 1
     path: Assets/_/Scenes/Niveau_3.unity
     guid: d2b9461c45e1b2843a105931895cefcf
@@ -27,8 +24,17 @@ EditorBuildSettings:
     path: Assets/_/Scenes/Game_over.unity
     guid: 0e18206c401524e4fa4d7f4150bfafc4
   - enabled: 1
+    path: Assets/_/Scenes/Ending.unity
+    guid: 0c61d55605762b0479e834c724937b2a
+  - enabled: 1
     path: Assets/_/Scenes/Victoire.unity
-    guid: 4f09877a2ca16f5448b3abb6a9aca5f7
+    guid: 20efcdec23a8c3d44896455c51891d4f
+  - enabled: 0
+    path: Assets/_/Scenes/Chapters.unity
+    guid: 7fe4eddfff5250e48a010b21a329b422
+  - enabled: 0
+    path: Assets/_/Scenes/Niveau_2_zone-2.unity
+    guid: 5794627b218917847909239b3bb710df
   - enabled: 0
     path: Assets/_/Scenes/Credits.unity
     guid: 9ef7d8c3c955a8c4da9acb0e0d1f2e8c
