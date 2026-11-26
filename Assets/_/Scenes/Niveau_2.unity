@@ -11005,6 +11005,8 @@ GameObject:
   - component: {fileID: 843181958}
   - component: {fileID: 843181957}
   - component: {fileID: 843181961}
+  - component: {fileID: 843181963}
+  - component: {fileID: 843181962}
   m_Layer: 0
   m_Name: Condition_wheel-4
   m_TagString: Untagged
@@ -11134,6 +11136,8 @@ MonoBehaviour:
   actions:
   - {fileID: 843181958}
   - {fileID: 843181961}
+  - {fileID: 843181963}
+  - {fileID: 843181962}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -11156,6 +11160,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
   target: {fileID: 1937384224}
   operation: 0
+--- !u!114 &843181962
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843181955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 021ce74f3be9f4ad2aeff0a1bcb9115d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InvokeEventsAction
+  Events:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1880462420}
+        m_TargetAssemblyTypeName: WheelTimer, Assembly-CSharp
+        m_MethodName: Reactivate
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 4237c6fb2d6314d4dad2f71b281e560a, type: 2}
+          m_ObjectArgumentAssemblyTypeName: ColliderEventSystem.BoolVariable, ColliderEventSystem
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &843181963
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843181955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: 4237c6fb2d6314d4dad2f71b281e560a, type: 2}
+  valueMode: 0
+  floatValue: 0
+  intValue: 0
+  boolValue: 0
+  stringValue: 
 --- !u!1 &866261538
 GameObject:
   m_ObjectHideFlags: 0
@@ -21483,6 +21532,8 @@ GameObject:
   - component: {fileID: 1601450994}
   - component: {fileID: 1601450993}
   - component: {fileID: 1601450997}
+  - component: {fileID: 1601450999}
+  - component: {fileID: 1601450998}
   m_Layer: 0
   m_Name: Condition_wheel-1
   m_TagString: Untagged
@@ -21612,6 +21663,8 @@ MonoBehaviour:
   actions:
   - {fileID: 1601450994}
   - {fileID: 1601450997}
+  - {fileID: 1601450999}
+  - {fileID: 1601450998}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -21634,6 +21687,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
   target: {fileID: 1937384224}
   operation: 0
+--- !u!114 &1601450998
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601450991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 021ce74f3be9f4ad2aeff0a1bcb9115d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InvokeEventsAction
+  Events:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1880462420}
+        m_TargetAssemblyTypeName: WheelTimer, Assembly-CSharp
+        m_MethodName: Reactivate
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 8b3b3b649c61a154a9e1982da5334951, type: 2}
+          m_ObjectArgumentAssemblyTypeName: ColliderEventSystem.BoolVariable, ColliderEventSystem
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1601450999
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601450991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: 8b3b3b649c61a154a9e1982da5334951, type: 2}
+  valueMode: 0
+  floatValue: 0
+  intValue: 0
+  boolValue: 0
+  stringValue: 
 --- !u!1 &1607944204
 GameObject:
   m_ObjectHideFlags: 0
@@ -22993,6 +23091,8 @@ GameObject:
   - component: {fileID: 1715596887}
   - component: {fileID: 1715596888}
   - component: {fileID: 1715596889}
+  - component: {fileID: 1715596891}
+  - component: {fileID: 1715596890}
   m_Layer: 0
   m_Name: Condition_wheel-3
   m_TagString: Untagged
@@ -23038,6 +23138,8 @@ MonoBehaviour:
   actions:
   - {fileID: 1715596887}
   - {fileID: 1715596889}
+  - {fileID: 1715596891}
+  - {fileID: 1715596890}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -23144,6 +23246,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
   target: {fileID: 1937384224}
   operation: 0
+--- !u!114 &1715596890
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1715596883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 021ce74f3be9f4ad2aeff0a1bcb9115d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InvokeEventsAction
+  Events:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1880462420}
+        m_TargetAssemblyTypeName: WheelTimer, Assembly-CSharp
+        m_MethodName: Reactivate
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 9090a860221e0cb4da4dec95b5207ffa, type: 2}
+          m_ObjectArgumentAssemblyTypeName: ColliderEventSystem.BoolVariable, ColliderEventSystem
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1715596891
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1715596883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: 9090a860221e0cb4da4dec95b5207ffa, type: 2}
+  valueMode: 0
+  floatValue: 0
+  intValue: 0
+  boolValue: 0
+  stringValue: 
 --- !u!1 &1716584502
 GameObject:
   m_ObjectHideFlags: 0
@@ -25375,6 +25522,51 @@ MonoBehaviour:
   targetRenderer: {fileID: 937790880}
   mode: 0
   newMaterial: {fileID: 2100000, guid: 3c366b1bc57667d448ef8a2fcadca357, type: 2}
+--- !u!1 &1880462419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1880462421}
+  - component: {fileID: 1880462420}
+  m_Layer: 0
+  m_Name: WheelTimer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1880462420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1880462419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 160e82f1764ab95418429e51391bec7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WheelTimer
+  delay: 1
+--- !u!4 &1880462421
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1880462419}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 476.8528, y: -0.00001, z: -1251.9073}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1893841534
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27674,6 +27866,8 @@ GameObject:
   - component: {fileID: 1980650339}
   - component: {fileID: 1980650338}
   - component: {fileID: 1980650342}
+  - component: {fileID: 1980650344}
+  - component: {fileID: 1980650343}
   m_Layer: 0
   m_Name: Condition_wheel-2
   m_TagString: Untagged
@@ -27803,6 +27997,8 @@ MonoBehaviour:
   actions:
   - {fileID: 1980650339}
   - {fileID: 1980650342}
+  - {fileID: 1980650344}
+  - {fileID: 1980650343}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -27825,6 +28021,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
   target: {fileID: 1937384224}
   operation: 0
+--- !u!114 &1980650343
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980650336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 021ce74f3be9f4ad2aeff0a1bcb9115d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InvokeEventsAction
+  Events:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1880462420}
+        m_TargetAssemblyTypeName: WheelTimer, Assembly-CSharp
+        m_MethodName: Reactivate
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 829bfa56b946f93458e95d15548eb628, type: 2}
+          m_ObjectArgumentAssemblyTypeName: ColliderEventSystem.BoolVariable, ColliderEventSystem
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1980650344
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980650336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: 829bfa56b946f93458e95d15548eb628, type: 2}
+  valueMode: 0
+  floatValue: 0
+  intValue: 0
+  boolValue: 0
+  stringValue: 
 --- !u!1001 &1984912817
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29396,3 +29637,4 @@ SceneRoots:
   - {fileID: 1934040906}
   - {fileID: 1405263757}
   - {fileID: 424011606}
+  - {fileID: 1880462421}
