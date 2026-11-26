@@ -12041,6 +12041,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2764153733735438834, guid: 90fafb4cc5de329429a0fe530dbe3134, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1b0995d60dbe8a74caa6e2cdd096d6cd, type: 2}
     - target: {fileID: 8925545278659652035, guid: 90fafb4cc5de329429a0fe530dbe3134, type: 3}
       propertyPath: m_LocalPosition.x
       value: 22.5
@@ -12956,6 +12960,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2764153733735438834, guid: 90fafb4cc5de329429a0fe530dbe3134, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1b0995d60dbe8a74caa6e2cdd096d6cd, type: 2}
     - target: {fileID: 7827005596978033305, guid: 90fafb4cc5de329429a0fe530dbe3134, type: 3}
       propertyPath: MaxDistance
       value: 2000
