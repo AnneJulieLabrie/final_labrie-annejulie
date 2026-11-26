@@ -187,6 +187,14 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 9581768, guid: 4fd72ede44298284b89704ad0b9dedad, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: de9887fb640cd9e409faf4ec8cd1671e, type: 2}
+    - target: {fileID: 9581768, guid: 4fd72ede44298284b89704ad0b9dedad, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
