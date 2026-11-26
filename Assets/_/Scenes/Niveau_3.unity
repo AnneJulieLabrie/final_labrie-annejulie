@@ -34660,7 +34660,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.GameObjectAction
   targetMode: 1
-  target: {fileID: 716186943}
+  target: {fileID: 1477801202}
   operation: 0
 --- !u!114 &1813805071
 MonoBehaviour:
